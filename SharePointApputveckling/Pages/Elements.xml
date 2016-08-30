@@ -2,5 +2,7 @@
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
   <Module Name="Pages">
     <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\Page1.aspx" Url="Pages/Page1.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\Page2Labb2.aspx" Url="Pages/Page2Labb2.aspx" ReplaceContent="TRUE" />
   </Module>
 </Elements>

@@ -6,5 +6,7 @@
     <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
     <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
     <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Labb1.js" Url="Scripts/Labb1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Labb2.js" Url="Scripts/Labb2.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>

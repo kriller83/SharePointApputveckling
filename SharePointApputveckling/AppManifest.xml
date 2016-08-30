@@ -8,7 +8,7 @@
 >
   <Properties>
     <Title>SharePointApputveckling</Title>
-    <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+    <StartPage>~appWebUrl/Pages/Page2Labb2.aspx?{StandardTokens}</StartPage>
   </Properties>
 
   <AppPrincipal>

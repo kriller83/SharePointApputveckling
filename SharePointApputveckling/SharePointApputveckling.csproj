@@ -55,11 +55,15 @@
     <None Include="Scripts\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{b26d85b7-05e5-4111-b8e5-9d01fb7be80f}</SharePointProjectItemId>
     </None>
+    <Content Include="Pages\Page1.aspx" />
+    <Content Include="Pages\Page2Labb2.aspx" />
     <Content Include="Scripts\Elements.xml" />
     <Content Include="Scripts\App.js" />
+    <Content Include="Scripts\Labb1.js" />
     <Content Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\Labb2.js" />
     <Content Include="Scripts\_references.js" />
   </ItemGroup>
   <ItemGroup>
